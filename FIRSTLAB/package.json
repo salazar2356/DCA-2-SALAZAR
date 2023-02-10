@@ -1,0 +1,22 @@
+{
+  "name": "firstlab",
+  "version": "1.0.0",
+  "main": "dependencies.js",
+  "scripts": {
+    "express": "index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sweetalert2": "^11.7.1"
+  },
+  "devDependencies": {
+    "number-random": "^1.0.0",
+    "typescript": "^4.9.5"
+  },
+  "keywords": [],
+  "description": ""
+}
